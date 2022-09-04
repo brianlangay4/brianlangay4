@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brianlangay4
+- 👋 Hi, I’m @brianlangay4 from LangayTM / Brian Langay 
 - 📫 How to reach me brianlangay4@gmail.com / +8613210545385
 - all repo free
 -database , bigdata , and many more operations
