@@ -4,7 +4,7 @@ Main Developer and Project manager at Builtin.pro
 check out all released projects will be availble at https://www.builtin.pro/
 
 ## releases
-[funscty.com](https://funscty.com/)
+[funscty.com](https://funscty.com/) \n
 https://mplaza.store/
 
 ## contacts
