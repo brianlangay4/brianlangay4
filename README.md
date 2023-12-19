@@ -1,6 +1,6 @@
 # Brian Langay 
 Main Developer and Project manager at Builtin.pro
-![downloaded_gif](https://github.com/brianlangay4/brianlangay4/assets/67788456/d137fad6-3ef2-4c53-aa20-cf62f1273056)
+![resized_gif](https://github.com/brianlangay4/brianlangay4/assets/67788456/21061321-ee07-4387-81e5-ccd374d8c718)
 
 check out all released projects will be availble at https://www.builtin.pro/
 
