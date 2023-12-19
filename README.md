@@ -4,12 +4,12 @@ Main Developer and Project manager at Builtin.pro
 check out all released projects will be availble at https://www.builtin.pro/
 
 ## releases
-[funscty.com](https://funscty.com/) \n
+[funscty.com](https://funscty.com/) 
 https://mplaza.store/
 
 ## contacts
 reach me public brianlangay4@gmail.com / +8613210545385 development related 🤝
-private and work brianlangay0@gmail.com / +8615675551125 ⚡️
+ private and work brianlangay0@gmail.com / +8615675551125 ⚡️
 
 php 
 java 
