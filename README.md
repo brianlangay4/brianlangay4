@@ -1,6 +1,7 @@
 # Brian Langay 
 Main Developer and Project manager at Builtin.pro
-https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif
+<iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">via GIPHY</a></p>
+
 check out all released projects will be availble at https://www.builtin.pro/
 
 ## releases
