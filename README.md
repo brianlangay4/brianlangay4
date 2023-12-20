@@ -1,9 +1,6 @@
 # Brian Langay 
 ![downloaded_gif](https://github.com/brianlangay4/brianlangay4/assets/67788456/18f0f940-7a62-462b-b45f-87bdf258b6f7)
 
-Main Developer and Project manager at Builtin.pro
-
-check out all released projects will be availble at https://www.builtin.pro/
 
 ## releases
 - [funscty.com](https://funscty.com/) 
