@@ -1,9 +1,9 @@
 # Brian Langay 
 
-main website
+Ask for Software service 
 https://Builtin.pro
 
-support
+support 
 https://silvmall.com
 
 ![downloaded_gif](https://github.com/brianlangay4/brianlangay4/assets/67788456/18f0f940-7a62-462b-b45f-87bdf258b6f7)
