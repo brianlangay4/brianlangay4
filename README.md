@@ -9,11 +9,13 @@ https://www.kaggle.com/brianlangay
 
 #
 support languages.
-- PHP
-- Java
-- Python
-- C#
-- ASP
+- Java *******
+- Python *****
+- C# ***
+- C++ ***
+- ASP ***
+- PHP **
+- html | css **
 
 #
 
