@@ -4,11 +4,11 @@ https://www.kaggle.com/brianlangay
 ![downloaded_gif](https://github.com/brianlangay4/brianlangay4/assets/67788456/18f0f940-7a62-462b-b45f-87bdf258b6f7)
 
 ## Reach out 📱 
-- public brianlangay4@gmail.com / +8613210545385 development related 🤝
+- public brianlangay4@gmail.com / for any inquiries 🙋 
 - private and work brianlangay0@gmail.com / +8615675551125 ⚡️
 
 #
-
+support languages.
 - PHP
 - Java
 - Python
