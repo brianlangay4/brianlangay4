@@ -1,6 +1,4 @@
-## Follow me on Kaggle
-[follow](URL "https://www.kaggle.com/brianlangay")
-
+## Follow me on Kaggle [🔗 click to follow 👉 ](URL "https://www.kaggle.com/brianlangay")
 
 ![downloaded_gif](https://github.com/brianlangay4/brianlangay4/assets/67788456/18f0f940-7a62-462b-b45f-87bdf258b6f7)
 
